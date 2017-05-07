@@ -118,8 +118,8 @@ SOCIAL_AUTH_PIPELINE = (
 
 
 # Facebook configuration
-SOCIAL_AUTH_FACEBOOK_KEY = '1967473606822263'  # App ID
-SOCIAL_AUTH_FACEBOOK_SECRET = '01c01f03bf8fa1efb414ba05d435e984'  # App Secret
+SOCIAL_AUTH_FACEBOOK_KEY = '<USER_ID>'  # App ID
+SOCIAL_AUTH_FACEBOOK_SECRET = '<SCRET_ID>'  # App Secret
 
 # Define SOCIAL_AUTH_FACEBOOK_SCOPE to get extra permissions from facebook.
 # Email is not sent by default, to get it, you must request the email permission:
